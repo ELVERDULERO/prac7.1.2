@@ -38,5 +38,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            mgea02/prac7-1:latest
-            ghcr.io/elverdulero/prac7-1:latest
+            mgea02/prova1:latest
+            ghcr.io/elverdulero/prac7.1.2:latest
